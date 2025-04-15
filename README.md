@@ -1,2 +1,2 @@
-# Phish-Scope
+# 🎃 Phish-Scope
 Phish-Scope
