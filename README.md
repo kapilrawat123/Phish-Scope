@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="200" src="https://github.com/kapilrawat123/Phish-Scope/blob/main/img/phis%20scope.png"  />
+<div align="left">
+  <img height="400" src="https://github.com/kapilrawat123/Phish-Scope/blob/main/img/phis%20scope.png"  />
 </div>
 
 ###
