@@ -1,0 +1,9 @@
+os 
+email
+requests
+base64
+re
+colorama
+argparse
+hashlib
+quopri
