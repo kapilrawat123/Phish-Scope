@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://github.com/kapilrawat123/Phish-Scope/blob/main/img/output.PNG"  />
+  <img height="500" src="https://github.com/kapilrawat123/Phish-Scope/blob/main/img/output.PNG"  />
 </div>
 
 ###
