@@ -12,14 +12,16 @@
 
 ###
 
-<p align="left">git clone https://github.com/kapilrawat123/Phish-Scope.git</p>
-
-###
-
 <h2 align="left">Install</h2>
 
+
+
 ###
 
+<p align="left">git clone https://github.com/kapilrawat123/Phish-Scope.git</p>
+
+
+###
 <h2 align="left">Usage</h2>
 
 ###
