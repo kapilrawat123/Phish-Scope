@@ -1,6 +1,6 @@
 ###
 
-<h1 align="left">🐟 Phis-Scope</h1>
+<h1 align="left">🐟 Phish-Scope</h1>
 
 ###
 
