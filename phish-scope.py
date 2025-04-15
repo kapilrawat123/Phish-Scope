@@ -17,7 +17,7 @@ import hashlib
 import quopri
 
 # VIRUS TOTAL APY KEY
-API_KEY = "cc160c4a292dddef4645a5a0c3d23254520c4e714bc3b4738ce30b26762d4443"
+API_KEY = "YOUR_API_KEY"
 
 # LOAD Email
 def load_email(file_path):
