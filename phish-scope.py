@@ -1,8 +1,8 @@
-# 1. Read an email file (.eml)
-# 2. Extract basic info (fro, suject, etc.)
-# 3. Analyze email body from phishing keywords
-# 4. Etract and scan Urls using Virus-Total
-# 5. Detect attachement (and scan them too, optionally)
+# 1. Read an email file (.eml).
+# 2. Extract basic info (from, subject, reply-to, etc.).
+# 3. Analyze email body for phishing keywords.
+# 4. Extract and scan URLs using Virus-Total.
+# 5. Detect attachment and provide its hash.
 
 import os 
 import email
