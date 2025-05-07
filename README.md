@@ -23,16 +23,13 @@
   <li>pip install requirenment.tx</li>
 </ul>
 
-<p align="left">git clone https://github.com/kapilrawat123/Phish-Scope.git</p>
-
-<p align="left">pip install requirenment.txt</p>
-
 ###
 <h2 align="left">Usage</h2>
 
 ###
 
-<p align="left">python phish-scope.py <filename.eml> <br><br>example:- python phish-scope.py sample-1.eml</p>
+<p align="left">python phish-scope.py <filename.eml> 
+<p>example:- python phish-scope.py sample-1.eml</p>
 
 ###
 
