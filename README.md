@@ -18,6 +18,11 @@
 
 ###
 
+<ul>
+  <li>git clone https://github.com/kapilrawat123/Phish-Scope.git</li>
+  <li>pip install requirenment.tx</li>
+</ul>
+
 <p align="left">git clone https://github.com/kapilrawat123/Phish-Scope.git</p>
 
 <p align="left">pip install requirenment.txt</p>
